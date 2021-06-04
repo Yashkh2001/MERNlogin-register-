@@ -1,0 +1,327 @@
+*{
+  margin:0px;
+}
+
+.contact{
+  height: 100vh;
+  
+}
+
+.j{
+  color: rgb(73, 39, 99);
+}
+
+.at{
+  box-shadow: 1px 1px rgb(83, 82, 82) ;
+  height: 6vh;
+}
+
+.contact-btn{
+  
+  position:relative;
+  left: 30vh;
+  top:2vh;
+  
+  width: 20vh;
+  
+
+}
+
+.message{
+  width:90%;
+  margin-top: 20px;
+  margin-left: 23px;
+  height: 30%;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.forms{
+  margin-top:15vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.head{
+  position: relative;
+  top: 30px;
+  left: 20px;
+}
+
+.card1{
+  width: 90vh;
+  height: 60vh;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px  rgb(83, 82, 82);
+
+}
+
+
+.phone{
+width: 40vh;
+height: 12vh;
+background-color:white;
+border-radius: 10px;
+
+}
+
+.header{
+justify-content: space-evenly;
+align-items: center;
+display: flex;
+
+
+}
+
+.header{
+  
+  height: 30vh;
+  
+}
+
+.nav-item{
+  align-items: center;
+  justify-content: space-between;
+  width: 100px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+  color:white;
+  
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+  text-decoration: underline;
+}
+
+.signup-content{
+  height: 60vh;
+}
+
+
+
+
+.navbar-light .navbar-brand{
+  color:aqua;
+}
+
+body{
+  background-color: rgb(214, 214, 214);
+}
+
+.navlink{
+  margin-left: 10vh;
+}
+
+
+.img-content{
+display: flex;
+flex-direction: column;
+}
+
+.btn{
+  margin-left:5vh;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5vh;
+  
+  
+}
+
+
+.signup .container{
+  width: 100vh;
+  height: 500px;
+  margin: auto;
+  top: 55%;
+  left: 50%;
+  
+  transform: translate(-50%, -50%);
+  position: absolute;
+  margin-bottom: 100px;
+  background-color:#fff;
+  border-radius: 20px;
+  box-shadow: black;
+}
+
+
+.form-title{
+position: relative;
+top:5vh;
+left:3vh;
+font-weight:bold ;
+
+}
+
+.form-control {
+	height: 40px;
+	box-shadow: none;
+	color: #969fa4;
+}
+
+.form-group{
+  margin-top: 14vh;
+  margin-left: 20px;
+}
+
+.form-group .btn2 {
+border:none;
+border-bottom: 1px solid black;
+width: 300px;
+
+}
+
+.form-group input:hover{
+  border: white;
+  border-bottom: 2px solid black;
+}
+
+.form-group input:focus{
+  border: transparent;
+  
+}
+.bold{
+  font-weight: bold;
+}
+
+.nav1{
+  background-color:#007bff;
+}
+
+.not-found{
+  z-index: -1;
+position: absolute;
+font-size: 25rem;
+color: rgb(158, 158, 158); 
+
+}
+
+.header1{
+  margin-left: 10vw;
+}
+
+.error{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 30vh;
+flex-direction: column;
+
+}
+
+.profile-work{
+ justify-content: space-evenly;
+
+ display: flex;
+ flex-direction: column;
+ margin-left: 5vh;
+ 
+  
+}
+
+
+
+ .container{
+  background-color:white;
+  margin-top:10vh;
+  width: 60vw;
+  height: 70vh;
+}
+
+.profile-head{
+ margin-top:5vh;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+
+}
+
+.about-img{
+  width: 10rem;
+  height: 10rem;
+}
+
+
+
+.form-group{
+display: flex;
+flex-direction: column;
+width: 50%;
+margin-top: 7vh;
+
+height: 80%;
+
+}
+
+.data,.login-data{
+  display: flex;
+  padding: 10px;
+  
+  
+}
+
+.signup-content{
+display: flex;
+
+
+}
+
+.img{
+width: 300px;
+height: 50vh;
+justify-content: center;
+align-items: center;
+display: flex;
+margin: auto;
+border-radius: 30px;
+position: relative;
+
+
+}
+.navlink1{
+  margin-left: 10vh;
+}
+
+.img:hover{
+  width: 300px;
+  
+  
+  border:2px solid black;
+  
+  transition: 0.8s;
+}
+
+
+.zz{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6px;
+  
+} 
+
+.form-title{
+  margin-left: 5vh;
+}
+.btn2{
+  width:10px;
+  
+}
+
+
+.home-content{
+  
+
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top:40vh;
+  flex-direction: column;
+  color:white;
+
+}
+
